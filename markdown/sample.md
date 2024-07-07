@@ -108,7 +108,7 @@ bar | baz |
 
 [Github Website](https://github.com) 
 
-[Secret Page](Secret.md)
+[Secret Page](secret.md)
 
 ## Tasklist
 
